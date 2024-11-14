@@ -2,7 +2,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-### Hi, I'm Maksym 👋
+### Hi, I'm Divyansh 👋
 
 I'm Divyansh Sharma an Aspiring Software Engineer with an toxic interest in WebDev. Experienced Back-end technologies, I Spend most of my time coding outstanding projects or upskilling myself.
 
