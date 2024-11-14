@@ -1,10 +1,14 @@
 <!-- Markdown -->
+
 <div align="center">
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+ <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
 </div>
+
+
 ### Hi, I'm Divyansh 👋
 
-I'm Divyansh Sharma an Aspiring Software Engineer with an toxic interest in WebDev. Experienced Back-end technologies, I Spend most of my time coding outstanding projects or upskilling myself.
+I'm Divyansh Sharma an aspiring Software Engineer with an toxic interest in WebDev. Experienced Back-end technologies, I Spend most of my time coding outstanding projects or upskilling myself.
 
 #### Top Technologies
 
